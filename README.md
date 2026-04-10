@@ -1,16 +1,10 @@
 <h1 align="center">Insurance Premium & Payout KPI Dashboard</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-Dashboard-1479FF?style=for-the-badge&labelColor=0B1F3A" alt="Power BI Dashboard" />
-  <img src="https://img.shields.io/badge/Domain-Insurance-0B1F3A?style=for-the-badge&labelColor=F59E0B" alt="Insurance Domain" />
-  <img src="https://img.shields.io/badge/Focus-KPIs_&_Insights-1479FF?style=for-the-badge&labelColor=0B1F3A" alt="KPI Insights" />
-</p>
-
-## Overview
+## <font color="#1479FF">Overview</font>
 
 This project showcases a Power BI dashboard built to analyze insurance premiums, claims, payouts, and loss ratios. It demonstrates how raw insurance data can be transformed into business-ready insights that support underwriting, risk assessment, and financial decision-making.
 
-## Project Purpose
+## <font color="#F97316">Project Purpose</font>
 
 The dashboard is designed to provide a clear, data-driven view of insurance performance metrics. It helps stakeholders:
 
@@ -19,14 +13,14 @@ The dashboard is designed to provide a clear, data-driven view of insurance perf
 - Assess risk categories
 - Identify areas requiring strategic attention
 
-## Tech Stack
+## <font color="#1479FF">Tech Stack</font>
 
 - **Power BI Desktop**: Data modeling, DAX, and interactive reporting
 - **Power Query**: Data cleaning and transformation
 - **Excel/CSV Dataset**: Insurance premium and claims data
 - **Business Analysis Techniques**: KPI definition, domain understanding, and dashboard storytelling
 
-## Data Source
+## <font color="#F97316">Data Source</font>
 
 Publicly available insurance premium and claims data containing:
 
@@ -37,7 +31,7 @@ Publicly available insurance premium and claims data containing:
 - Payout status
 - Risk categories
 
-## Business Impact
+## <font color="#1479FF">Business Impact</font>
 
 This dashboard enables insurance teams to:
 
@@ -47,20 +41,20 @@ This dashboard enables insurance teams to:
 - Detect rising claim trends early to reduce financial exposure
 - Support executive reporting with clear KPIs and visual storytelling
 
-## Dashboard Previews
+## <font color="#F97316">Dashboard Previews</font>
 
-### Insurance Overview
+### <font color="#1479FF">Insurance Overview</font>
 
 ![Insurance Overview](./Insurance%20Overview.png)
 
-### Investment vs Maturity
+### <font color="#F97316">Investment vs Maturity</font>
 
 ![Investment vs Maturity](./Investment%20vs%20Maturity.png)
 
-### Premium Analysis
+### <font color="#1479FF">Premium Analysis</font>
 
 ![Premium Analysis](./Premium%20Analysis.png)
 
-### Sales Hierarchy Performance
+### <font color="#F97316">Sales Hierarchy Performance</font>
 
 ![Sales Hierarchy Performance](./Sales%20Hierarchy%20Performance.png)
